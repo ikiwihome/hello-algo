@@ -1,7 +1,7 @@
 <!--
     File: insertion_sort.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{insertion_sort}-[class]{}-[func]{insertion_sort} -->

@@ -1,7 +1,7 @@
 """
 File: graph_adjacency_matrix.py
 Created Time: 2023-02-23
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 import sys

@@ -1,7 +1,7 @@
 /**
  * File: subset_sum_i_naive.cpp
  * Created Time: 2023-06-21
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

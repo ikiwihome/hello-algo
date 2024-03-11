@@ -1,7 +1,7 @@
 """
 File: min_path_sum.py
 Created Time: 2023-07-04
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 from math import inf

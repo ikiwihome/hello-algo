@@ -1,7 +1,7 @@
 """
 File: edit_distancde.py
 Created Time: 2023-07-04
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

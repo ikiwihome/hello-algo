@@ -1,7 +1,7 @@
 """
 File: linkedlist_deque.py
 Created Time: 2023-03-01
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

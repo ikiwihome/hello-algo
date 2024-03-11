@@ -1,7 +1,7 @@
 /**
  * File: edit_distance.cpp
  * Created Time: 2023-07-13
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

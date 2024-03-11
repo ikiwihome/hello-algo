@@ -1,7 +1,7 @@
 """
 File: array.py
 Created Time: 2022-11-25
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 import random

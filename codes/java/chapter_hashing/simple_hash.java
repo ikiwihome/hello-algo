@@ -1,7 +1,7 @@
 /**
  * File: simple_hash.java
  * Created Time: 2023-06-21
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_hashing;

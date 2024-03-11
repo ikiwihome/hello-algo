@@ -1,7 +1,7 @@
 <!--
     File: time_complexity.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{time_complexity}-[class]{}-[func]{constant} -->

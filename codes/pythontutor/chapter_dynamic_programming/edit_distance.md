@@ -1,7 +1,7 @@
 <!--
     File: edit_distance.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{edit_distance}-[class]{}-[func]{edit_distance_dp} -->

@@ -1,7 +1,7 @@
 """
 File: coin_change_greedy.py
 Created Time: 2023-07-18
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

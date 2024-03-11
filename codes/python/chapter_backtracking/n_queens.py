@@ -1,7 +1,7 @@
 """
 File: n_queens.py
 Created Time: 2023-04-26
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

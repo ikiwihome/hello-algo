@@ -18,7 +18,7 @@ public class TreeNode {
     }
 
     // 序列化编码规则请参考：
-    // https://www.hello-algo.com/chapter_tree/array_representation_of_tree/
+    // https://hello-algo.ikiwi.cc/chapter_tree/array_representation_of_tree/
     // 二叉树的数组表示：
     // [1, 2, 3, 4, nil, 6, 7, 8, 9, nil, nil, 12, nil, nil, 15]
     // 二叉树的链表表示：

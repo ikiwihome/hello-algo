@@ -1,7 +1,7 @@
 /**
  * File: bucket_sort.cpp
  * Created Time: 2023-03-30
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

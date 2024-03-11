@@ -1,7 +1,7 @@
 <!--
     File: worst_best_time_complexity.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{worst_best_time_complexity}-[class]{}-[func]{find_one} -->

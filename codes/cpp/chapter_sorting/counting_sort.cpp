@@ -1,7 +1,7 @@
 /**
  * File: counting_sort.cpp
  * Created Time: 2023-03-17
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

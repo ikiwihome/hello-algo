@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.hello-algo.com/en/">
-    <img src="https://www.hello-algo.com/en/index.assets/hello_algo_header.png" width="450"></a>
+  <a href="https://hello-algo.ikiwi.cc/en/">
+    <img src="https://hello-algo.ikiwi.cc/en/index.assets/hello_algo_header.png" width="450"></a>
 </p>
 
 <p align="center">
@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hello-algo.com/en/">
-    <img src="https://www.hello-algo.com/en/index.assets/btn_read_online_dark.svg" width="120"></a>
+  <a href="https://hello-algo.ikiwi.cc/en/">
+    <img src="https://hello-algo.ikiwi.cc/en/index.assets/btn_read_online_dark.svg" width="120"></a>
   <a href="https://github.com/krahets/hello-algo/releases">
-    <img src="https://www.hello-algo.com/en/index.assets/btn_download_pdf_dark.svg" width="120"></a>
-  <a href="https://github.com/krahets/hello-algo">
-    <img src="https://www.hello-algo.com/en/index.assets/btn_chinese_edition_dark.svg" width="120"></a>
+    <img src="https://hello-algo.ikiwi.cc/en/index.assets/btn_download_pdf_dark.svg" width="120"></a>
+  <a href="https://github.com/ikiwihome/hello-algo">
+    <img src="https://hello-algo.ikiwi.cc/en/index.assets/btn_chinese_edition_dark.svg" width="120"></a>
 </p>
 
 <p align="center">
-  <img src="https://www.hello-algo.com/en/index.assets/animation.gif" width="396">
-  <img src="https://www.hello-algo.com/en/index.assets/running_code.gif" width="396">
+  <img src="https://hello-algo.ikiwi.cc/en/index.assets/animation.gif" width="396">
+  <img src="https://hello-algo.ikiwi.cc/en/index.assets/running_code.gif" width="396">
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ If you find this book helpful, please give it a Star :star: to support us, thank
 
 This open-source book is continuously being updated, and we welcome your participation in this project to provide better learning content for readers.
 
-- [Content Correction](https://www.hello-algo.com/en/chapter_appendix/contribution/): Please help us correct or point out mistakes in the comments section such as grammatical errors, missing content, ambiguities, invalid links, or code bugs.
+- [Content Correction](https://hello-algo.ikiwi.cc/en/chapter_appendix/contribution/): Please help us correct or point out mistakes in the comments section such as grammatical errors, missing content, ambiguities, invalid links, or code bugs.
 - [Code Transpilation](https://github.com/krahets/hello-algo/issues/15): We look forward to your contributions in various programming languages. We currently support 12 languages including Python, Java, C++, Go, and JavaScript.
 - [Chinese-to-English](https://github.com/krahets/hello-algo/issues/914): We would love to invite you to join our translation team. The members are mainly from computer-science-related fields, English majors, and native English speakers.
 
@@ -76,8 +76,8 @@ We welcome your valuable suggestions and feedback. If you have any questions, pl
 We would like to dedicate our thanks to all the contributors of this book. It is their selfless dedication that has made this book better. They are:
 
 <p align="left">
-    <a href="https://github.com/krahets/hello-algo/graphs/contributors">
-        <img width="550" src="https://contrib.rocks/image?repo=krahets/hello-algo" />
+    <a href="https://github.com/ikiwihome/hello-algo/graphs/contributors">
+        <img width="550" src="https://contrib.rocks/image?repo=ikiwihome/hello-algo" />
     </a>
 </p>
 

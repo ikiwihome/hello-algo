@@ -1,7 +1,7 @@
 /**
  * File: iteration.c
  * Created Time: 2023-09-09
- * Author: Gonglja (glj0@outlook.com), MwumLi (mwumli@hotmail.com)
+ * Author: MwumLi (mwumli@hotmail.com)
  */
 
 #include "../utils/common.h"

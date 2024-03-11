@@ -1,7 +1,7 @@
 """
 File: unbounded_knapsack.py
 Created Time: 2023-07-10
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

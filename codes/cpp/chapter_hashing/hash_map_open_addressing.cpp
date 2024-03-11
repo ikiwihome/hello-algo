@@ -1,7 +1,7 @@
 /**
  * File: hash_map_open_addressing.cpp
  * Created Time: 2023-06-13
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "./array_hash_map.cpp"

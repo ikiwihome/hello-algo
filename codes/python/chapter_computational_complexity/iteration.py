@@ -1,7 +1,7 @@
 """
 File: iteration.py
 Created Time: 2023-08-24
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 

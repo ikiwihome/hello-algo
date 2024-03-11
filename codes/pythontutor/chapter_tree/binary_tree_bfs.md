@@ -1,7 +1,7 @@
 <!--
     File: binary_tree_bfs.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{binary_tree_bfs}-[class]{}-[func]{level_order} -->

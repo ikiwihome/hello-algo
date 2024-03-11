@@ -12,7 +12,7 @@ If you are new to algorithms with limited exposure, or you have accumulated some
 
 If you have already accumulated a certain amount of problem-solving experience, and are familiar with most types of problems, then this book can help you review and organize your algorithm knowledge system. The repository's source code can be used as a "problem-solving toolkit" or an "algorithm cheat sheet".
 
-If you are an algorithm expert, we look forward to receiving your valuable suggestions, or [join us and collaborate](https://www.hello-algo.com/chapter_appendix/contribution/).
+If you are an algorithm expert, we look forward to receiving your valuable suggestions, or [join us and collaborate](https://hello-algo.ikiwi.cc/chapter_appendix/contribution/).
 
 !!! success "Prerequisites"
 

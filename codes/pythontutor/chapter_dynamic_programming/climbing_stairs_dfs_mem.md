@@ -1,7 +1,7 @@
 <!--
     File: climbing_stairs_dfs_mem.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{climbing_stairs_dfs_mem}-[class]{}-[func]{climbing_stairs_dfs_mem} -->

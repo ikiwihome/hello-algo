@@ -1,7 +1,7 @@
 /**
  * File: list_node.hpp
  * Created Time: 2021-12-19
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #pragma once

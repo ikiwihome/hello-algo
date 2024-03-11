@@ -1,7 +1,7 @@
 /**
  * File: array.java
  * Created Time: 2022-11-25
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_array_and_linkedlist;

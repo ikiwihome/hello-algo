@@ -1,7 +1,7 @@
 /**
 * File: PrintUtil.cs
 * Created Time: 2022-12-23
-* Author: haptear (haptear@hotmail.com), krahets (krahets@163.com)
+* Author: haptear (haptear@hotmail.com), ikiwi (ikiwicc@gmail.com)
 */
 
 namespace hello_algo.utils;

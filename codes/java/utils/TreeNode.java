@@ -1,7 +1,7 @@
 /**
  * File: TreeNode.java
  * Created Time: 2022-11-25
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package utils;
@@ -21,7 +21,7 @@ public class TreeNode {
     }
 
     // 序列化编码规则请参考：
-    // https://www.hello-algo.com/chapter_tree/array_representation_of_tree/
+    // https://hello-algo.ikiwi.cc/chapter_tree/array_representation_of_tree/
     // 二叉树的数组表示：
     // [1, 2, 3, 4, None, 6, 7, 8, 9, None, None, 12, None, None, 15]
     // 二叉树的链表表示：

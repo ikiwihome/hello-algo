@@ -187,7 +187,7 @@ Compared to just reading code, writing code often yields more learning. **Learni
 
 Setting up to run the code involves three main steps.
 
-**Step 1: Install a local programming environment**. Follow the [tutorial](https://www.hello-algo.com/chapter_appendix/installation/) in the appendix for installation, or skip this step if already installed.
+**Step 1: Install a local programming environment**. Follow the [tutorial](https://hello-algo.ikiwi.cc/chapter_appendix/installation/) in the appendix for installation, or skip this step if already installed.
 
 **Step 2: Clone or download the code repository**. Visit the [GitHub Repository](https://github.com/krahets/hello-algo).
 

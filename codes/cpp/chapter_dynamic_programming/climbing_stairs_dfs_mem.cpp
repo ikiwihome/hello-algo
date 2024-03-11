@@ -1,7 +1,7 @@
 /**
  * File: climbing_stairs_dfs_mem.cpp
  * Created Time: 2023-06-30
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

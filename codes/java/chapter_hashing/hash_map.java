@@ -1,7 +1,7 @@
 /**
  * File: hash_map.java
  * Created Time: 2022-12-04
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_hashing;

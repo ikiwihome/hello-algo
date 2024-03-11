@@ -12,7 +12,7 @@
 
 如果你已经积累一定的刷题量，熟悉大部分题型，那么本书可助你回顾与梳理算法知识体系，仓库源代码可以当作“刷题工具库”或“算法字典”来使用。
 
-若你是算法“大神”，我们期待收到你的宝贵建议，或者[一起参与创作](https://www.hello-algo.com/chapter_appendix/contribution/)。
+若你是算法“大神”，我们期待收到你的宝贵建议，或者[一起参与创作](https://hello-algo.ikiwi.cc/chapter_appendix/contribution/)。
 
 !!! success "前置条件"
 

@@ -187,7 +187,7 @@
 
 运行代码的前置工作主要分为三步。
 
-**第一步：安装本地编程环境**。请参照附录所示的[教程](https://www.hello-algo.com/chapter_appendix/installation/)进行安装，如果已安装，则可跳过此步骤。
+**第一步：安装本地编程环境**。请参照附录所示的[教程](https://hello-algo.ikiwi.cc/chapter_appendix/installation/)进行安装，如果已安装，则可跳过此步骤。
 
 **第二步：克隆或下载代码仓库**。前往 [GitHub 仓库](https://github.com/krahets/hello-algo)。如果已经安装 [Git](https://git-scm.com/downloads) ，可以通过以下命令克隆本仓库：
 

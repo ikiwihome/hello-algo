@@ -1,7 +1,7 @@
 /**
  * File: climbing_stairs_constraint_dp.java
  * Created Time: 2023-07-01
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_dynamic_programming;

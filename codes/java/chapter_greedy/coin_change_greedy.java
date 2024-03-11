@@ -1,7 +1,7 @@
 /**
  * File: coin_change_greedy.java
  * Created Time: 2023-07-20
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_greedy;

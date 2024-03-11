@@ -1,7 +1,7 @@
 /**
  * File: binary_search_recur.java
  * Created Time: 2023-07-17
- * Author: krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_divide_and_conquer;

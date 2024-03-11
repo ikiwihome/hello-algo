@@ -1,7 +1,7 @@
 <!--
     File: n_queens.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{n_queens}-[class]{}-[func]{n_queens} -->

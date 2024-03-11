@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.hello-algo.com/">
-    <img src="https://www.hello-algo.com/index.assets/hello_algo_header.png" width="450"></a>
+  <a href="https://hello-algo.ikiwi.cc/">
+    <img src="https://hello-algo.ikiwi.cc/index.assets/hello_algo_header.png" width="450"></a>
 </p>
 
 <p align="center">
@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.hello-algo.com/">
-    <img src="https://www.hello-algo.com/index.assets/btn_read_online_dark.svg" width="145"></a>
+  <a href="https://hello-algo.ikiwi.cc/">
+    <img src="https://hello-algo.ikiwi.cc/index.assets/btn_read_online_dark.svg" width="145"></a>
   <a href="https://github.com/krahets/hello-algo/releases">
-    <img src="https://www.hello-algo.com/index.assets/btn_download_pdf_dark.svg" width="145"></a>
-  <a href="https://github.com/krahets/hello-algo/blob/master/README-en.md">
-    <img src="https://www.hello-algo.com/index.assets/btn_english_edition_dark.svg" width="145"></a>
+    <img src="https://hello-algo.ikiwi.cc/index.assets/btn_download_pdf_dark.svg" width="145"></a>
+  <a href="https://github.com/ikiwihome/hello-algo/blob/master/README-en.md">
+    <img src="https://hello-algo.ikiwi.cc/index.assets/btn_english_edition_dark.svg" width="145"></a>
 </p>
 
 <p align="center">
-  <img src="https://www.hello-algo.com/index.assets/animation.gif" width="396">
-  <img src="https://www.hello-algo.com/index.assets/running_code.gif" width="396">
+  <img src="https://hello-algo.ikiwi.cc/index.assets/animation.gif" width="396">
+  <img src="https://hello-algo.ikiwi.cc/index.assets/running_code.gif" width="396">
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 本开源书仍在持续更新之中，欢迎您参与本项目，一同为读者提供更优质的学习内容。
 
-- [内容修正](https://www.hello-algo.com/chapter_appendix/contribution/)：请您协助修正或在评论区指出语法错误、内容缺失、文字歧义、无效链接或代码 bug 等问题。
+- [内容修正](https://hello-algo.ikiwi.cc/chapter_appendix/contribution/)：请您协助修正或在评论区指出语法错误、内容缺失、文字歧义、无效链接或代码 bug 等问题。
 - [代码转译](https://github.com/krahets/hello-algo/issues/15)：期待您贡献各种语言代码，已支持 Python、Java、C++、Go、JavaScript 等 12 门编程语言。
 - [中译英](https://github.com/krahets/hello-algo/issues/914)：诚邀您加入我们的翻译小组，成员主要来自计算机相关专业、英语专业和英文母语者。
 
@@ -72,8 +72,8 @@
 感谢本开源书的每一位撰稿人，是他们的无私奉献让这本书变得更好，他们是：
 
 <p align="left">
-    <a href="https://github.com/krahets/hello-algo/graphs/contributors">
-        <img width="550" src="https://contrib.rocks/image?repo=krahets/hello-algo" />
+    <a href="https://github.com/ikiwihome/hello-algo/graphs/contributors">
+        <img width="550" src="https://contrib.rocks/image?repo=ikiwihome/hello-algo" />
     </a>
 </p>
 

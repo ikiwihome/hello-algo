@@ -1,7 +1,7 @@
 """
 File: top_k.py
 Created Time: 2023-06-10
-Author: Krahets (krahets@163.com)
+Author: ikiwi (ikiwicc@gmail.com)
 """
 
 import sys

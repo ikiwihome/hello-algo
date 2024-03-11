@@ -1,7 +1,7 @@
 /**
  * File: climbing_stairs_dfs.java
  * Created Time: 2023-06-30
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_dynamic_programming;

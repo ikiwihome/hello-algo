@@ -1,7 +1,7 @@
 /**
  * File: Vertex.java
  * Created Time: 2023-02-15
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package utils;

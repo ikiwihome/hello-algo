@@ -1,7 +1,7 @@
 /**
  * File: array_binary_tree.cpp
  * Created Time: 2023-07-19
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

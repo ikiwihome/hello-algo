@@ -1,7 +1,7 @@
 /**
  * File: vertex.h
  * Created Time: 2023-10-28
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #ifndef VERTEX_H

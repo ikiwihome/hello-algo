@@ -14,7 +14,7 @@ public class TreeNode(int? x) {
     public TreeNode? right; // 右子节点引用
 
     // 序列化编码规则请参考：
-    // https://www.hello-algo.com/chapter_tree/array_representation_of_tree/
+    // https://hello-algo.ikiwi.cc/chapter_tree/array_representation_of_tree/
     // 二叉树的数组表示：
     // [1, 2, 3, 4, None, 6, 7, 8, 9, None, None, 12, None, None, 15]
     // 二叉树的链表表示：

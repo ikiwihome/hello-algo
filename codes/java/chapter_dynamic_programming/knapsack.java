@@ -1,7 +1,7 @@
 /**
  * File: knapsack.java
  * Created Time: 2023-07-10
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_dynamic_programming;

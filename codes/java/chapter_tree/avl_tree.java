@@ -1,7 +1,7 @@
 /**
  * File: avl_tree.java
  * Created Time: 2022-12-10
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 package chapter_tree;

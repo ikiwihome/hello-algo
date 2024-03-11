@@ -1,7 +1,7 @@
 /**
  * File: binary_search_edge.cpp
  * Created Time: 2023-08-04
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #include "../utils/common.hpp"

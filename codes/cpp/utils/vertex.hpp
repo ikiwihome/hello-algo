@@ -1,7 +1,7 @@
 /**
  * File: vertex.hpp
  * Created Time: 2023-03-02
- * Author: Krahets (krahets@163.com)
+ * Author: ikiwi (ikiwicc@gmail.com)
  */
 
 #pragma once

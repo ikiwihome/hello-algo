@@ -1,7 +1,7 @@
 <!--
     File: binary_search_tree.md
     Created Time: 2024-01-05
-    Author: Krahets (krahets@163.com)
+    Author: ikiwi (ikiwicc@gmail.com)
 --->
 
 <!-- [file]{binary_search_tree}-[class]{binary_search_tree}-[func]{search} -->
